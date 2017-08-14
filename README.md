@@ -43,7 +43,14 @@ You can download [here](https://github.com/celian-m/SwiftLocalizator/blob/master
 
 ### Tip
 
+#### Webloc
 Use `$./Localizator localizator.plist -w` to generate a shortcut to your drive file
+
+#### Shortcut
+
+- Copy the `Localizator` binary into  `/Library/Localizator/Localizator`
+- Export the new PATH as `$export PATH=$PATH:/Library/Localizator` ( could be pasted in `~/.bash_profile`
+- Run `$Localizator` from anywhere
 
 
 
