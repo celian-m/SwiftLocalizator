@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accounts</key>
+	<array>
+		<string>cmoutafis@mystudiofactory.com</string>
+	</array>
+	<key>fileId</key>
+	<string>1hCJjy2fre5kF0lFAaeEv8bIuYDqnK22EemDcwgckvUU</string>
+	<key>platform</key>
+	<string>android</string>
+	<key>path</key>
+	<string>./iDojo/Trads</string>
+	<key>skipRows</key>
+	<integer>1</integer>
+	<key>keyColumn</key>
+	<integer>0</integer>
+	<key>commentColumn</key>
+	<integer>0</integer>
+	<key>locales</key>
+	<array>
+		<dict>
+			<key>locale</key>
+			<string>fr</string>
+			<key>column</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>locale</key>
+			<string>en</string>
+			<key>column</key>
+			<integer>3</integer>
+		</dict>
+	</array>
+</dict>
+</plist>
