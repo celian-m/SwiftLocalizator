@@ -18,9 +18,6 @@ Download the latest Localizator Release [here](https://github.com/celian-m/Swift
 
 ## Usage
 
-### Run
-`$./Localizator localizator.plist`
-
 ### Configuration
 
 The localizator is managed by a `.plist` file.
@@ -40,6 +37,13 @@ You can download [here](https://github.com/celian-m/SwiftLocalizator/blob/master
 | commentColumn | Int | true | Index for comments. They will be inserted into the generated files. use `-1` to exclude comments |
 | locales | [ { String : Any }]  | true | Array of object describing your drive file. See plist sample |
 
+
+### Run
+`$./Localizator localizator.plist`
+
+### Tip
+
+Use `$./Localizator localizator.plist -w` to generate a shortcut to your drive file
 
 
 

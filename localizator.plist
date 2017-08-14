@@ -21,14 +21,14 @@
 	<key>locales</key>
 	<array>
 		<dict>
-			<key>locale</key>
-			<string>fr</string>
+			<key>path</key>
+			<string>lr.lproj</string>
 			<key>column</key>
 			<integer>1</integer>
 		</dict>
 		<dict>
-			<key>locale</key>
-			<string>en</string>
+			<key>path</key>
+			<string>en.lproj</string>
 			<key>column</key>
 			<integer>3</integer>
 		</dict>
