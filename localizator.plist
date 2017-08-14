@@ -4,10 +4,10 @@
 <dict>
 	<key>accounts</key>
 	<array>
-		<string>cmoutafis@mystudiofactory.com</string>
+		<string>{{YOUR EMAIL}}</string>
 	</array>
 	<key>fileId</key>
-	<string>1hCJjy2fre5kF0lFAaeEv8bIuYDqnK22EemDcwgckvUU</string>
+	<string>{{YOUR FILE ID}}</string>
 	<key>platform</key>
 	<string>android</string>
 	<key>path</key>
