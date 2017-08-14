@@ -12,20 +12,20 @@ Apple Swift version 3.1
 
 ```
 
-##Download
+## Download
 
-Download the latest Localizator Release `here`
+Download the latest Localizator Release [here](https://github.com/celian-m/SwiftLocalizator/blob/master/bin/Localizator)
 
 ## Usage
 
-###Run
+### Run
 `$./Localizator localizator.plist`
 
-###Configuration
+### Configuration
 
 The localizator is managed by a `.plist` file.
 
-You can download `here` a sample of the `localizator.plist` file.
+You can download [here](https://github.com/celian-m/SwiftLocalizator/blob/master/localizator.plist) a sample of the `localizator.plist` file.
 
 
 
