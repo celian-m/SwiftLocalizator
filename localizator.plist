@@ -21,13 +21,13 @@
 	<key>locales</key>
 	<array>
 		<dict>
-			<key>path</key>
+			<key>subpath</key>
 			<string>lr.lproj</string>
 			<key>column</key>
 			<integer>1</integer>
 		</dict>
 		<dict>
-			<key>path</key>
+			<key>subpath</key>
 			<string>en.lproj</string>
 			<key>column</key>
 			<integer>3</integer>
