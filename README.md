@@ -49,7 +49,7 @@ Use `$./Localizator localizator.plist -w` to generate a shortcut to your drive f
 #### Shortcut
 
 - Copy the `Localizator` binary into  `/Library/Localizator/Localizator`
-- Export the new PATH as `$export PATH=$PATH:/Library/Localizator` ( could be pasted in `~/.bash_profile`
+- Export the new PATH as `$export PATH=$PATH:/Library/Localizator` ( could be pasted in `~/.bash_profile` )
 - Run `$Localizator` from anywhere
 
 
