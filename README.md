@@ -37,7 +37,19 @@ You can download [here](https://github.com/celian-m/SwiftLocalizator/blob/master
 | commentColumn | Int | true | Index for comments. They will be inserted into the generated files. use `-1` to exclude comments |
 | locales | [ { String : Any }]  | true | Array of object describing your drive file. See plist sample |
 
+#### Locale Object
+The locale object used in the `locales` key should looks like :
 
+```xml
+		<dict>
+			<key>overrideColumn</key> <!-- optionnal -->
+			<integer>2</integer> <!-- Provide a fallback column -->
+			<key>subpath</key>  
+			<string>values</string> <!-- Will be appended to {path} -->
+			<key>column</key>  <!-- The column index  -->
+			<integer>3</integer>
+		</dict>
+```
 ### Run
 `$./Localizator localizator.plist`
 
