@@ -8,7 +8,7 @@ To use the Localizator, you must be running Mac OS X, and having swift installed
 
 ```sh
 $swift -v
-Apple Swift version 3.1
+Apple Swift version 4.2.1
 
 ```
 
@@ -30,7 +30,7 @@ You can download [here](https://github.com/celian-m/SwiftLocalizator/blob/master
 |-----|------|-----------|-------|
 |   accounts  |  [String]    |   true        |    List of account to use for authentication   |
 |  fileId   |    String  |     true     |    Id of your Google Drive file   |
-|  platform   |    String  |    true      |   Choose your platform ( ios \| android )    |
+|  platform   |    String  |    true      |   Choose your platform ( ios \| android \| yml)    |
 |   path  |   String   |     true      |   Path for your files generation    |
 |  skipRows   |   Int   |    true       |    Number of row to skip ( may be your table headers )   |
 |    keyColumn |   Int   |   true        |  Index of the column containing the keys     |
