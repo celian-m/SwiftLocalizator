@@ -30,6 +30,7 @@ You can download [here](https://github.com/celian-m/SwiftLocalizator/blob/master
 |-----|------|-----------|-------|
 |   accounts  |  [String]    |   true        |    List of account to use for authentication   |
 |  fileId   |    String  |     true     |    Id of your Google Drive file   |
+|  gid   |    String  |     false     |    gid of your Google Drive file ( only if you need to use a secondary tab of the Google sheet   |
 |  platform   |    String  |    true      |   Choose your platform ( ios \| android \| yml)    |
 |   path  |   String   |     true      |   Path for your files generation    |
 |  skipRows   |   Int   |    true       |    Number of row to skip ( may be your table headers )   |
