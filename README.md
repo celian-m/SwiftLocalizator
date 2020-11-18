@@ -66,4 +66,7 @@ Use `$./Localizator localizator.plist -w` to generate a shortcut to your drive f
 - Run `$Localizator` from anywhere
 
 
+#### Mac OS BigSur
+
+If you encouter issue while opening the Localizator bynary due to "Untrusted Developper" (and if you trust me) you can unlock following : https://support.apple.com/fr-fr/guide/mac-help/mh40616/mac
 
