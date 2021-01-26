@@ -1,6 +1,13 @@
 # SwiftLocalizator
 Localizator helps you to manage translation in your mobile apps
 
+##Supported Platforms
+
+Localizator fully supports :
+
+- iOS to generate `strings` files
+- Android to generate `xml` files
+- Dart to generate `arb` files 
 
 ## Requirements
 
@@ -31,7 +38,7 @@ You can download [here](https://github.com/celian-m/SwiftLocalizator/blob/master
 |   accounts  |  [String]    |   true        |    List of account to use for authentication   |
 |  fileId   |    String  |     true     |    Id of your Google Drive file   |
 |  gid   |    String  |     false     |    gid of your Google Drive file ( only if you need to use a secondary tab of the Google sheet   |
-|  platform   |    String  |    true      |   Choose your platform ( ios \| android \| yml)    |
+|  platform   |    String  |    true      |   Choose your platform (ios \| android \| yml \| dart)    |
 |   path  |   String   |     true      |   Path for your files generation    |
 |  skipRows   |   Int   |    true       |    Number of row to skip ( may be your table headers )   |
 |    keyColumn |   Int   |   true        |  Index of the column containing the keys     |
