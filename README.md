@@ -15,7 +15,7 @@ To use the Localizator, you must be running Mac OS X, and having swift installed
 
 ```sh
 $swift -v
-Apple Swift version 4.2.1
+Welcome to Apple Swift version 5.3.2
 
 ```
 
