@@ -8,6 +8,7 @@ Localizator fully supports :
 - iOS to generate `strings` files
 - Android to generate `xml` files
 - Dart to generate `arb` files 
+- React to generate `json` files 
 
 ## Requirements
 
@@ -61,7 +62,7 @@ The locale object used in the `locales` key should looks like :
 ### Run
 `$./Localizator localizator.plist`
 
-### Tip
+## Tip
 
 #### Webloc
 Use `$./Localizator localizator.plist -w` to generate a shortcut to your drive file
