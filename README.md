@@ -24,6 +24,12 @@ Welcome to Apple Swift version 5.3.2
 
 Download the latest Localizator Release [here](https://github.com/celian-m/SwiftLocalizator/blob/master/bin/Localizator)
 
+Don't forget to allow execution for the binary file :
+
+```sh
+chmod +x Localizator
+```
+
 ## Usage
 
 ### Configuration
